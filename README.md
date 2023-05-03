@@ -1,2 +1,2 @@
-# Saprse-optical-flow
+# Optical-flow
 Sparse abd dense Optical flow using python
